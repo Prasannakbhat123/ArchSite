@@ -1,0 +1,8 @@
+export { AboutSection } from './AboutSection'
+export { ContactSection } from './ContactSection'
+export { DnaSection } from './dna'
+export { HeroSection } from './HeroSection'
+export { HomeSections } from './HomeSections'
+export { ProjectsSection } from './ProjectsSection'
+export { ReviewsSection } from './reviews/ReviewsSection'
+export { SearchSection } from './search/SearchSection'
