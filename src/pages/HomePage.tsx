@@ -31,7 +31,7 @@ export function HomePage() {
 
       <HomeSections />
 
-      <ContactSection />
+      {/* <ContactSection /> */}
 
     </MainLayout>
 
